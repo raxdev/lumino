@@ -1,7 +1,6 @@
 *.suo
 *.user
 .DS_Store
-dist
 lib
 types
 node_modules
